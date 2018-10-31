@@ -7,10 +7,19 @@
 
 body {
     overflow: hidden;
+    background-color: #2e2e2e;
+    color: #bcbcbc;
 }
 
-a, a:hover {
+.nav {
+    margin: .3rem;
+}
+.nav-pills .nav-link.active {
     color: #bcbcbc;
+    background-color: #224477;
+}
+.nav-link {
+    padding: .3rem 1rem;
 }
 
 #app {
@@ -18,9 +27,11 @@ a, a:hover {
 }
 
 #top {
-    background-color: #555;
-    color: #fff;
     overflow: auto;
+}
+
+.tab-content {
+    border-top: 1px solid #888;
 }
 
 #iframe {
