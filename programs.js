@@ -16,7 +16,7 @@ var programs = {
     2: [
         '強風吹拂',
         '東京喰種',
-        'Conception 產子救世錄',
+        'Conception',
     ],
     3: [
         '在天空與海洋之間',
@@ -31,7 +31,7 @@ var programs = {
         '學園 BASARA',
         'BAKUMATSU',
         '梅露可物語',
-        '傀儡馬戲團',
+        '魔偶馬戲團',
         '百萬亞瑟王',
     ],
     5: [
