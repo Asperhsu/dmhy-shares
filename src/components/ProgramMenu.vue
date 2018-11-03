@@ -67,6 +67,7 @@
 
     .bm-burger-bars {
         box-shadow: 0px 0px 8px 2px #333;
+        background-color: #eee;
     }
 
     .nav-container {

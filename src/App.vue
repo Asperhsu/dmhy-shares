@@ -42,6 +42,12 @@
 
         components: { Push, ContentFrame, ProgramMenu },
 
+        created () {
+            if (location.protocol == 'https:') {
+                location.href = location.href.replace('https:', 'http:');
+            }
+        },
+
         data () {
             return {
                 keyword: null,
