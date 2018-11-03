@@ -4,6 +4,12 @@ var todayDayNo = (new Date).getDay();
 var app = new Vue({
     el: '#app',
 
+    created () {
+        if (location.protocol == 'https:') {
+            location.href = location.href.replace('https:', 'http:');
+        }
+    },
+
     data: {
         allPrograms: programs,
         dayNames: ['週日', '週一', '週二', '週三', '週四', '週五', '週六'],

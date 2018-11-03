@@ -1,0 +1,21 @@
+{
+  "name": "dmhy-share",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "node-sass": "^4.9.4",
+    "sass-loader": "^7.1.0",
+    "vue": "^2.5.17",
+    "vue-burger-menu": "^1.0.8"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.1.0",
+    "@vue/cli-service": "^3.1.0",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
