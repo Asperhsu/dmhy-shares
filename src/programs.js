@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     0: [
         '笨拙之極的上野',
         '巴哈姆特之怒',
