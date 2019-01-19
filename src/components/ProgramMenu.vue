@@ -20,6 +20,13 @@
                 </li>
             </ul>
         </div>
+
+        <h4>節目資訊來源</h4>
+        <p style="font-size: .8em;">
+            <a href="https://forum.gamer.com.tw/C.php?bsn=60037&snA=72130" target="_blank">
+                【冬番】2019年01月新番首播日期＆課表 by durant710916
+            </a>
+        </p>
     </div>
 </template>
 
@@ -63,6 +70,14 @@
                 color: #363636 !important;
             }
         }
+    }
+
+    .bm-burger-button {
+        border: 10px solid #333;
+        background: #333;
+        border-radius: 5px;
+        width: 50px;
+        height: 45px;
     }
 
     .bm-burger-bars {
