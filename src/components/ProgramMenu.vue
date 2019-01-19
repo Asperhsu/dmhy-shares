@@ -76,8 +76,8 @@
         border: 10px solid #333;
         background: #333;
         border-radius: 5px;
-        width: 50px;
-        height: 45px;
+        width: 50px !important;
+        height: 45px !important;
     }
 
     .bm-burger-bars {
