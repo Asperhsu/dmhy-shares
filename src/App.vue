@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-        <Push>
+        <Push isOpen noOverlay >
             <program-menu @selected="changeProgram"></program-menu>
         </Push>
 
@@ -17,16 +17,8 @@
                         左邊選單選擇新番名稱
                     </h3>
                 </div>
-
-                <div class="hero-head has-background-black-ter has-text-grey-light" style="height: 22px; font-size: .7em;">
-                    <a href="https://github.com/Aspertw/dmhy-shares" target="_blank">
-                        Source Code by Asper
-                    </a>
-                </div>
             </section>
         </main>
-
-
     </div>
 </template>
 
@@ -83,4 +75,12 @@
     #app {
         height: 100vh;
     }
+
+    p {
+        font-size: 1rem;
+    }
+
+    a, a:hover, a:visited { color: #68acce !important; }
+
+    hr { margin: 1rem 0 !important; background-color: #858585; }
 </style>

@@ -22,11 +22,14 @@
         </div>
 
         <h4>節目資訊來源</h4>
-        <p style="font-size: .8em;">
-            <a href="https://forum.gamer.com.tw/C.php?bsn=60037&snA=72130" target="_blank">
-                【冬番】2019年01月新番首播日期＆課表 by durant710916
+        <p>
+            <a href="https://forum.gamer.com.tw/C.php?bsn=60037&snA=72690" target="_blank">
+                【春番】2019年04月新番首播日期＆課表 by durant710916
             </a>
         </p>
+
+        <hr>
+        <p><a href="https://github.com/Asperhsu/dmhy-shares" target="_blank">Source Code</a></p>
     </div>
 </template>
 
