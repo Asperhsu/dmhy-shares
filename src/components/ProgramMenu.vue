@@ -23,8 +23,8 @@
 
         <h4>節目資訊來源</h4>
         <p>
-            <a href="https://forum.gamer.com.tw/C.php?bsn=60037&snA=72690" target="_blank">
-                【春番】2019年04月新番首播日期＆課表 by durant710916
+            <a href="https://forum.gamer.com.tw/C.php?bsn=60037&snA=73237" target="_blank">
+                【夏番】2019年07月新番首播日期＆課表 by durant710916
             </a>
         </p>
 
